@@ -1,0 +1,7 @@
+tr.selected{
+    background-color: rgb(114, 114, 114);
+}
+
+tr.selected td{
+    color: white;
+}
